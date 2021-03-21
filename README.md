@@ -1,4 +1,4 @@
-# page-rank-pyspark
+# Distributed Computing - PySpark
 
 This repository contains mini-projects on distributed computing using Spark in Python.
 
